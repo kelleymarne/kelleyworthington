@@ -222,7 +222,7 @@ li a:hover {
     background-size: cover;
     background-position:bottom;
 }
-.foodfest-project {
+.stickleBricks-project {
     width: 310px;
     height: 310px;
     background: #fff;
@@ -230,7 +230,7 @@ li a:hover {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(../src/assets/images/food-table.jpg);
+    background-image: url(../src/assets/images/legoFigures.png);
     background-size: cover;
     background-position:bottom;
 }
@@ -300,8 +300,6 @@ li a:hover {
 }
 .button:hover {
     background-color:rgb(139, 168, 120);
-    border: 2px solid var(--mid-green);
-    border-radius: 10px;
 
 }
 

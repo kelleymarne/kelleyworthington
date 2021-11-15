@@ -10,21 +10,21 @@ function Projects() {
 
                {/* PROJECT 1 */}
                <div className="project-item">
-                    <div className="foodfest-project">
+                    <div className="stickleBricks-project">
                         <div className="text-container">
-                            <h2 className="name">Food Festival</h2>
+                            <h2 className="name">StickleBricks</h2>
                             <div className="content">
                                 <p>
-                                    This Food Festival Application is a Progressive Web Application that will allow you to still view the information about the food events even if you don't have a great connection to the internet.
+                                    StickleBricks is a full stack e-commerce application, using a MERN stack. This store front would sell individual lego pieces, as well as box sets. 
                                 </p>
                             </div>
                             <button className="button">
-                                <a target="blank" href="https://kelleymarne.github.io/food-festival/">
+                                <a target="blank" href="https://sticklebricks.herokuapp.com/">
                                     <h3>View Project</h3>
                                 </a>
                             </button>
                             <button className="button">
-                                <a target="blank" href="https://github.com/kelleymarne/food-festival">
+                                <a target="blank" href="https://github.com/JHardisty333/stickle-bricks">
                                     <h3>View Repo</h3>
                                 </a>
                             </button>
