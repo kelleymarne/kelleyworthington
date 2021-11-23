@@ -156,6 +156,13 @@ li a:hover {
     justify-content: center;
     flex-flow: wrap;
 }
+
+#skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
 .about-image {
     height: 450px;
     width: 400px;
