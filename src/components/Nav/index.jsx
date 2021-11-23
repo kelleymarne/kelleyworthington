@@ -8,6 +8,7 @@ function Nav() {
             <div className="links">
                 <ul>
                     <li><a href="#name" id="name">Kelley Worthington</a></li>
+                    <li><a href="mailto:kelley.worthington93@gmail.com" target="_blank" id="mail">kelley.worthington93@gmail.com</a></li>
                     <li><a href="#projects" id="project">Projects</a></li>
                     <li><a href="#aboutme" id="about">About</a></li>
                     <li><a href="#contactme" id="contact">Contact Me</a></li>

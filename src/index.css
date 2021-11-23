@@ -52,8 +52,12 @@ li a {
     text-decoration: none;
     font-size: 1.5rem;
     transition: .5s ease-in-out;
-
 }
+
+#mail {
+font-size: 1rem;
+}
+
 li a:hover {
     text-decoration: underline;
 }
