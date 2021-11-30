@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.c020ddcd.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.c81042d3.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.c81042d3.chunk.js.map",
-    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.d0862508.js",
-    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.d0862508.js.map",
-    "static/js/2.890f5ea6.chunk.js": "/reactPortfolio/static/js/2.890f5ea6.chunk.js",
-    "static/js/2.890f5ea6.chunk.js.map": "/reactPortfolio/static/js/2.890f5ea6.chunk.js.map",
-    "static/js/3.e2f1192c.chunk.js": "/reactPortfolio/static/js/3.e2f1192c.chunk.js",
-    "static/js/3.e2f1192c.chunk.js.map": "/reactPortfolio/static/js/3.e2f1192c.chunk.js.map",
-    "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.f2f272cfc991dc5b096f243b66ff0b70.js": "/reactPortfolio/precache-manifest.f2f272cfc991dc5b096f243b66ff0b70.js",
-    "service-worker.js": "/reactPortfolio/service-worker.js",
-    "static/css/main.c020ddcd.chunk.css.map": "/reactPortfolio/static/css/main.c020ddcd.chunk.css.map",
-    "static/js/2.890f5ea6.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.890f5ea6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/reactPortfolio/static/media/taskinator.d190ab83.png"
+    "main.css": "/kelleyworthington/static/css/main.9f4f7bc2.chunk.css",
+    "main.js": "/kelleyworthington/static/js/main.c81042d3.chunk.js",
+    "main.js.map": "/kelleyworthington/static/js/main.c81042d3.chunk.js.map",
+    "runtime-main.js": "/kelleyworthington/static/js/runtime-main.8c19461a.js",
+    "runtime-main.js.map": "/kelleyworthington/static/js/runtime-main.8c19461a.js.map",
+    "static/js/2.890f5ea6.chunk.js": "/kelleyworthington/static/js/2.890f5ea6.chunk.js",
+    "static/js/2.890f5ea6.chunk.js.map": "/kelleyworthington/static/js/2.890f5ea6.chunk.js.map",
+    "static/js/3.e2f1192c.chunk.js": "/kelleyworthington/static/js/3.e2f1192c.chunk.js",
+    "static/js/3.e2f1192c.chunk.js.map": "/kelleyworthington/static/js/3.e2f1192c.chunk.js.map",
+    "index.html": "/kelleyworthington/index.html",
+    "precache-manifest.ed1353a9fe39f00757f054b5b2a5ed93.js": "/kelleyworthington/precache-manifest.ed1353a9fe39f00757f054b5b2a5ed93.js",
+    "service-worker.js": "/kelleyworthington/service-worker.js",
+    "static/css/main.9f4f7bc2.chunk.css.map": "/kelleyworthington/static/css/main.9f4f7bc2.chunk.css.map",
+    "static/js/2.890f5ea6.chunk.js.LICENSE.txt": "/kelleyworthington/static/js/2.890f5ea6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kelleyworthington/static/media/taskinator.d190ab83.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0862508.js",
+    "static/js/runtime-main.8c19461a.js",
     "static/js/2.890f5ea6.chunk.js",
-    "static/css/main.c020ddcd.chunk.css",
+    "static/css/main.9f4f7bc2.chunk.css",
     "static/js/main.c81042d3.chunk.js"
   ]
 }
